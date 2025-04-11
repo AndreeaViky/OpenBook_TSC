@@ -116,7 +116,7 @@ The central unit of the system is the ESP32-C6-WROOM-1-N8, a 32-bit RISC-V micro
 
 ## Errors
 
-La editarea PCB-ului in Fusion 360 am intampinat urmatoarele erori:
-<img width="600" alt="errors" src="https://github.com/user-attachments/assets/13f76178-e6c5-4af7-bdd7-0c7c476f3f09" />
+While editing the PCB in Fusion 360, I encountered the following errors:
+![errors](./Images/errors.png)
 
-Erorile au aparut din cauza dimensiunii gaurilor din mufa USB, asa ca le-am aprobat pe amandoua.
+The errors occurred due to the size of the holes in the PCB, so I approved them.
