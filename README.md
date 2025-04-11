@@ -117,6 +117,7 @@ The central unit of the system is the ESP32-C6-WROOM-1-N8, a 32-bit RISC-V micro
 ## Errors
 
 While editing the PCB in Fusion 360, I encountered the following errors:
+
 ![errors](./Images/errors.png)
 
 The errors occurred due to the size of the holes in the PCB, so I approved them.
